@@ -15,4 +15,6 @@ websockets
 wincertstore
 xgboost
 neuro-mf
+pandas
+PyYAML
 -e .
